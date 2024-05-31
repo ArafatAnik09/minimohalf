@@ -1,0 +1,2 @@
+# minimohalf
+project minimo half
